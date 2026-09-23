@@ -1,0 +1,21 @@
+Date,Product,Category,Region,Units_Sold,Unit_Price,Revenue
+2026-01-05,Laptop,Electronics,Chennai,5,55000,275000
+2026-01-12,Mouse,Electronics,Bangalore,25,800,20000
+2026-01-18,Keyboard,Electronics,Chennai,18,1500,27000
+2026-02-03,Office Chair,Furniture,Coimbatore,8,7500,60000
+2026-02-15,Desk,Furniture,Chennai,6,12000,72000
+2026-02-21,Laptop,Electronics,Bangalore,7,55000,385000
+2026-03-02,Notebook,Stationery,Madurai,80,100,8000
+2026-03-11,Pen Pack,Stationery,Chennai,120,60,7200
+2026-03-20,Office Chair,Furniture,Bangalore,10,7500,75000
+2026-04-04,Laptop,Electronics,Coimbatore,4,55000,220000
+2026-04-16,Mouse,Electronics,Madurai,35,800,28000
+2026-04-24,Desk,Furniture,Chennai,9,12000,108000
+2026-05-06,Keyboard,Electronics,Bangalore,22,1500,33000
+2026-05-14,Notebook,Stationery,Chennai,95,100,9500
+2026-05-25,Pen Pack,Stationery,Coimbatore,150,60,9000
+2026-06-01,Office Chair,Furniture,Madurai,7,7500,52500
+2026-06-13,Laptop,Electronics,Chennai,6,55000,330000
+2026-06-22,Desk,Furniture,Bangalore,5,12000,60000
+2026-07-03,Mouse,Electronics,Chennai,40,800,32000
+2026-07-17,Keyboard,Electronics,Coimbatore,28,1500,42000
